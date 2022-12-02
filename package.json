@@ -1,0 +1,10 @@
+{
+  "name": "landing_page",
+  "version": "0.1.0",
+  "author": "Dmitry Sviridenko",
+  "homepage": "https://mrsandw1ch.github.io/landing_page",
+  "dependencies": {
+    "sass": "^1.56.1",
+    "scss": "^0.2.4"
+  }
+}
